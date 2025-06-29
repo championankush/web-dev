@@ -1,7 +1,7 @@
 # HTML Fundamentals Tutorial
 ## Complete Guide from Beginner to Advanced
 
-**Navigation:** [← Back to Master Guide](../web-development-master-guide.md) | [Next: CSS Styling & Layout →](css-styling-layout.md)
+**Navigation:** [← Back to Master Guide](../web-development-master-guide.md) | [Next: CSS Styling & Layout →](02-css-styling-layout.md)
 
 ---
 
@@ -892,10 +892,10 @@ Improve the accessibility of a webpage by:
 
 ## 🔗 **Related Tutorials**
 
-- [CSS Styling & Layout](css-styling-layout.md) - Style your HTML
-- [JavaScript Basics](javascript-basics.md) - Add interactivity
-- [HTML Forms & Validation](html-forms-validation.md) - Advanced forms
-- [HTML5 Semantic Elements](html5-semantic.md) - Modern HTML structure
+- [CSS Styling & Layout](02-css-styling-layout.md) - Style your HTML
+- [JavaScript Basics](03-javascript-basics.md) - Add interactivity
+- [HTML Forms & Validation](04-html-forms-validation.md) - Advanced forms
+- [HTML5 Semantic Elements](05-html5-semantic.md) - Modern HTML structure
 
 ---
 
@@ -908,7 +908,7 @@ Improve the accessibility of a webpage by:
 
 ---
 
-**Next: [CSS Styling & Layout Tutorial](css-styling-layout.md)**
+**Next: [CSS Styling & Layout Tutorial](02-css-styling-layout.md)**
 
 ---
 
